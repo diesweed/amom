@@ -1,0 +1,6 @@
+
+/**
+ * @module amom
+ * @author diesweed
+ */
+
